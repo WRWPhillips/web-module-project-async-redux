@@ -27,6 +27,8 @@
     "jest": "27.3.1",
     "msw": "0.35.0",
     "nodemon": "2.0.14",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.4.1",
     "webpack": "5.62.1",
     "webpack-dev-server": "4.4.0"
   },
@@ -46,8 +48,9 @@
     "react-router-dom": "5.2.0",
     "redux": "^4.1.2",
     "sass": "^1.32.8",
+    "save-dev": "^0.0.1-security",
     "style-loader": "^3.3.1",
-    "styled-components": "5.3.3",
+    "styled-components": "^5.3.3",
     "webpack-cli": "^4.9.1"
   }
 }
