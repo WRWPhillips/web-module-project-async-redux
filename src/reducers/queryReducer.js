@@ -1,7 +1,7 @@
 import { UPDATE_QUERY } from '../actions';
 
 const initialState = {
-    query: 'Burger'
+  query: ''
 };
 
 export function queryReducer(state = initialState, action) {
